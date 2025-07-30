@@ -1,50 +1,41 @@
-# 🎓 AcademyWebApp
+🎓 AcademyWebApp
+AcademyWebApp is a front-end web application designed for educational institutions. Built with modern HTML5 and CSS, it features a clean and informative layout suitable for schools, academies, or colleges.
 
-**AcademyWebApp** is a fully responsive, front-end web application for educational institutions. Designed with modern HTML5 and CSS, it offers a clean and informative interface suitable for schools, academies, or colleges.
-
-> ⚠️ This is a front-end only project. There is **no backend** or **database integration** yet. Dynamic features will be added in future updates & Apologies for the unorganized folder structure — it's intended to help avoid path issues when deploying on GitHub Pages.
-
+>⚠️ This is a front-end only project. There is no backend or database integration yet.
+🗂️ Apologies for the unorganized folder structure — it's structured this way to help avoid path issues when deploying on GitHub Pages.
+💻 Note: This site is currently designed only for desktop screens. Responsive design for tablets and mobile devices will be added in future updates.
 ---
-
-## ⚙️ Tech Stack
-
-- **HTML5**
-- **CSS** (Vanilla CSS)
-- **JavaScript**
-- **CSS - Post CSS** 
-- **Flexbox & CSS Grid**
-- **Font Awesome** (Icon library)
-
+⚙️ Tech Stack
+HTML5
+CSS (Vanilla CSS)
+JavaScript
+PostCSS
+Flexbox & CSS Grid
+Font Awesome (Icon library)
 ---
-
-## ✅ Features
-- Structured homepage with:
-  - Hero section
-  - Courses
-  - Campus overview
-  - Facilities
-  - Testimonials
-  - Call-to-Action (CTA)
-  - Footer
-- Separate course and contact pages
-- Clean, maintainable HTML & CSS
-- SEO-friendly structure
-
+✅ Features
+Structured homepage with:
+Hero section
+Courses
+Campus overview
+Facilties
+Testimonials
+Call-to-Action (CTA)
+Footer
+Separate course and contact pages
+Clean, maintainable HTML & CSS
+SEO-friendly structure
 ---
-
-## 🚧 Upcoming Updates
-
-- Backend integration (php or larvel)
-- Functional contact form with validation
-- Admin panel for content management
-- Dynamic testimonials with approval system
-- Blog/News section
-- Page transitions and animations (e.g. GSAP)
-- Accessibility enhancements (WCAG standards)
-
+🚧 Upcoming Updates
+Responsive design for mobile and tablet
+Backend integration (PHP or Laravel)
+Functional contact form with validation
+Admin panel for content management
+Dynamic testimonials with approval system
+Blog/News section
+Page transitions and animations (e.g., GSAP)
+Accessibility enhancements (WCAG standards)
 ---
-
-## 🛠 Getting Started
-
-
-
+🛠 Getting Started
+[https://github.com/GitColner/AcademyWebApp-.git]
+[gh repo clone GitColner/AcademyWebApp-]
