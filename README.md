@@ -2,7 +2,7 @@
 
 **AcademyWebApp** is a fully responsive, front-end web application for educational institutions. Designed with modern HTML5 and CSS, it offers a clean and informative interface suitable for schools, academies, or colleges.
 
-> ⚠️ This is a front-end only project. There is **no backend** or **database integration** yet. Dynamic features will be added in future updates.
+> ⚠️ This is a front-end only project. There is **no backend** or **database integration** yet. Dynamic features will be added in future updates & Apologies for the unorganized folder structure — it's intended to help avoid path issues when deploying on GitHub Pages.
 
 ---
 
@@ -45,4 +45,6 @@
 ---
 
 ## 🛠 Getting Started
+
+
 
