@@ -1,0 +1,171 @@
+.sub-header {
+	min-height: 50vh;
+	width: 100%;
+	background-image: linear-gradient(rgba(88, 94, 204, .336), rgba(143, 148, 251, .336)), url(contact.avif);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	color: #fff;
+	border: 2px solid #000
+}
+
+.fa-heart-o,
+.icons .fa {
+	color: #f44366
+}
+
+.sub-header nav {
+	display: flex;
+	padding: 2% 6%;
+	justify-content: space-between;
+	align-items: center
+}
+
+.sub-header nav img {
+	width: 120px;
+	transition: .3s;
+	background: #ffffff7c;
+	border-radius: 100%
+}
+
+.sub-header nav img:hover {
+	opacity: .7;
+	filter: brightness(.8);
+	cursor: pointer
+}
+
+.sub-header .nav-links {
+	flex: 1;
+	text-align: right
+}
+
+.sub-header .nav-links ul {
+	margin: 0;
+	padding: 0
+}
+
+.sub-header .nav-links ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 8px 12px;
+	position: relative;
+	transition: transform .3s, color .3s
+}
+
+.sub-header .nav-links ul li a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	font-family: sans-serif;
+	font-weight: 500;
+	transition: .5s ease-out
+}
+
+.sub-header .nav-links ul li:hover {
+	transform: rotateX(30deg) scale(1.15)
+}
+
+.sub-header .nav-links ul li a:hover {
+	color: #c6df3a
+}
+
+.sub-header h1 {
+	text-align: center;
+	margin-top: 100px;
+	font-size: 2.5rem;
+	font-family: sans-serif
+}
+
+.section-divider {
+	border: none;
+	height: 3px;
+	background: linear-gradient(#fff, #000, #fff);
+	margin: 0
+}
+
+.contact-us,
+.location {
+	width: 80%;
+	margin: auto
+}
+
+.location {
+	padding: 80px 0
+}
+
+.location iframe {
+	width: 100%;
+	height: 450px;
+	border-radius: 10px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, .1)
+}
+
+.contact-us {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 40px
+}
+
+.contact-col {
+	flex-basis: 48%;
+	margin-bottom: 30px;
+	flex: 1 1 45%
+}
+
+.contact-col div {
+	display: flex;
+	align-items: center;
+	margin-bottom: 40px
+}
+
+.contact-col div .fa {
+	font-size: 28px;
+	color: #f44366;
+	margin: 10px 30px 10px 10px
+}
+
+.contact-col div p {
+	padding: 0
+}
+
+.contact-col div h5 {
+	font-size: 20px;
+	margin-bottom: 5px;
+	color: #555;
+	font-weight: 400
+}
+
+.contact-col input,
+.contact-col textarea {
+	width: 100%;
+	padding: 15px;
+	outline: 0;
+	border: 1px solid #ccc;
+	box-sizing: border-box
+}
+
+.footer {
+	width: 100%;
+	text-align: center;
+	padding: 30px 0
+}
+
+.footer f4 {
+	margin-bottom: 25px;
+	margin-top: 20px;
+	font-weight: 600
+}
+
+.icons .fa {
+	margin: 0 13px;
+	cursor: pointer;
+	padding: 18px 0
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 20px;
+	margin-top: 120px
+}
